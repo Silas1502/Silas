@@ -1,12 +1,12 @@
-title: <p align="center"> Giorgio Carbone </p>
+title: <p align="center"> Vo Minh Khoi </p>
 
 logo: "/images/picture.png?raw=true"
 
 description:
   <p align="center">
-  Milan, Italy
-  <br> (+39) 3406959794
-  <br> carbone.giorgio4@gmail.com
+  Ho Chi Minh City, Viet Nam
+  <br> (+84) 372111606
+  <br> minhkhoivo1502@gmail.com
   <br> <a href="pdf/Carbone_Giorgio_CV_eng.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/giorgiocarbone/">LinkedIn</a> |
   <a href="https://github.com/giocoal">GitHub</a>
@@ -17,16 +17,13 @@ description:
   </p>
   
   <p align="justify">
-  I am a passionate <b>data scientist</b>, specializing in <b>Deep Learning and Computational Chemistry</b>, dedicated to integrating AI and science for groundbreaking advancements.
+  I am a final-year Computer Science student seeking a <b>Data Analyst Intern</b> position, with a solid foundation in <b>SQL and Python</b> and a strong interest in data-driven decision making.
   <br><br>
-  Currently, I'm a <b>PhD Candidate</b> in <b>Generative AI for Drug Discovery</b>, a collaborative project between the University of Milano-Bicocca and Italfarmaco S.p.A.
+  I have hands-on experience in data cleaning, exploratory data analysis, and building dashboards, where I apply logical thinking to transform raw data into meaningful insights. I enjoy analyzing trends, supporting business understanding, and presenting results in a clear and structured way.
   <br><br>
-  With a <b>Master's in Data Science</b> and a <b>Bachelor's in Chemistry</b>, I bring a strong analytical foundation and a deep passion for scientific research.
+  I am eager to gain practical experience in a professional environment, improve my analytical and reporting skills, and contribute to real-world data projects.
   <br><br>
-  I have a hard science education, having achieved a <b>Bachelor's Degree in Chemical Sciences and Technologies</b>.
-  <br><br>
-  I'm a determined, pragmatic, and flexible individual, with a core passion for applying deep learning and generative models to scientific contexts, especially in drug discovery.
-  <br><br>
+  In the long term, I aim to develop deep expertise in data analytics and become a <b>Senior Data Analyst</b>, with the ability to build forecasting models using large-scale data and optimize business operations through data-driven strategies.
   </p>
   
 theme: jekyll-theme-minimal
