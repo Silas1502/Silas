@@ -1,7 +1,7 @@
 # Portfolio
 ---
 
-## Deep Generative Modeling for Drug Discovery
+### ☕ Coffee Shop Sales Analysis
 
 ### ITForge: A Generative AI-Driven Drug Discovery Pipeline for Structure-Based De Novo Drug Design and Molecular Ranking with Open-Source Frameworks
 
