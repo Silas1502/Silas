@@ -1,23 +1,30 @@
 # Portfolio
 ---
 
-### ☕ Coffee Shop Sales Analysis
+## Phân tích Dữ liệu & Trực quan hóa
 
-### ITForge: A Generative AI-Driven Drug Discovery Pipeline for Structure-Based De Novo Drug Design and Molecular Ranking with Open-Source Frameworks
+### <ins>Phân tích Excel</ins>: *"Phân Tích Doanh Thu Quán Cà Phê"* <br>
 
-[![Poster DOI](https://img.shields.io/badge/Poster%20DOI-10.5281/zenodo.15880301-6b3048?logo=google-scholar)](https://zenodo.org/records/15880301)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Silas1502/Coffee-Shop-Sales-Analysis)
 
-_Key Skills: Python (PyTorch, scikit-learn), Generative Modeling, Reinforcement Learning, Computational Chemistry, Computer-Aided Drug Design, Molecular Docking, Vector Databases_
+_Key Skills: Microsoft Excel, Power Query, Pivot Tables, Dashboard Design, Data Cleaning_
 
 <div style="text-align: justify">
-<b>ITForge</b> is an <b>end-to-end</b>, <b>AI-driven pipeline</b> developed to support hit-to-lead workflows through <b>generative fragment growing</b>. ITForge integrates and optimizes multiple open-source frameworks to address significant <b>Structure-Based De Novo Drug Design</b> limitations. The pipeline combines a generative workflow based on the <b>scaffold decoration</b> model <b>LibINVENT</b>, <b>pre-trained on the ChEMBL</b> database and optimized via <b>Reinforcement Learning (RL)</b>, with a comprehensive post-processing module designed to <b>progressively filter and rank compounds</b> using increasingly accurate scoring stages. <br>
-ITForge provides a flexible, scalable, and open-source solution for AI-driven drug design, integrating generative modeling, multi-objective optimization, and rigorous post-processing to prioritize high-quality candidate molecules for experimental validation. <br>
-
+Phân tích hiệu suất kinh doanh quán cà phê từ <b>9,521 giao dịch</b>, sử dụng Excel và Power Query để làm sạch dữ liệu, xây dựng Pivot Table phân tích đa chiều, và tạo Dashboard tương tác.
+<br><br>
+<b>Vấn đề cần giải quyết:</b> Doanh thu và xu hướng theo thời gian (tháng, ngày trong tuần); Sản phẩm nào mang lại doanh thu cao nhất / bán chạy nhất; Cơ hội tăng giá trị đơn hàng trung bình (AOV); Chiến lược sản phẩm và định giá hiệu quả hơn.
+<br><br>
+<b>Dataset:</b> 10,000 giao dịch gốc với các vấn đề chất lượng (ERROR, UNKNOWN, null values) → 9,521 records sau làm sạch.
+<br><br>
+<b>Quy trình làm sạch (Power Query):</b> Xử lý null: Price Per Unit → thay bằng median; Quantity → tính từ Total Spent/Price. Suy luận giá trị thiếu: Item lookup từ giá; Location → "Unknown"; Payment → "Other". Loại bỏ dòng Transaction Date null để đảm bảo phân tích thời gian chính xác.
+<br><br>
+<b>Phương pháp thực hiện:</b> <b>Exploratory Analysis:</b> Pivot Tables tổng hợp doanh thu, số đơn, số lượng sản phẩm theo tháng và ngày trong tuần. <b>Product Analysis:</b> Ranking sản phẩm theo doanh thu và số lượng bán. <b>AOV Analysis:</b> Tính toán giá trị đơn hàng trung bình và số sản phẩm/đơn. <b>Visualization:</b> Dashboard tương tác trong Excel với KPI cards, time series charts, và product performance charts.
+<br><br>
+<b>Insight chính:</b> <b>Product-Performance Gap:</b> Sản phẩm bán chạy nhất (theo số lượng) không phải lúc nào cũng mang lại doanh thu cao nhất → Cơ hội điều chỉnh product mix. <b>Revenue Distribution:</b> Một số sản phẩm có volume cao nhưng đóng góp doanh thu thấp → Cơ hội tăng giá hoặc upsell. <b>Stable Demand:</b> Doanh thu ổn định theo thời gian, chưa có peak hours rõ rệt → Tiềm năng khai thác thời điểm cao điểm. <b>AOV Opportunities:</b> Chiến lược bundling và upselling có thể tăng doanh thu trung bình mỗi đơn.
 </div>
 <br>
-<center><img src="images/A0_MLSS_2025_Poster_Research_Project_Carbone_Giorgio-1.png"/></center>
+<center><img src="images/coffee_dashboard.png"/></center>
 <br>
-
 ## Deep Learning
 
 ### <ins>Master's Thesis</ins>: *"Deep Neural Encoding Models of the Human Visual Cortex to Predict fMRI Responses to Natural Visual Scenes"* <br>
