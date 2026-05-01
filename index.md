@@ -1,3 +1,17 @@
+# About me
+<p align="justify">
+  I am a final-year Computer Science student seeking a <b>Data Analyst Intern</b> position, with a solid foundation in <b>SQL and Python</b> and a strong interest in data-driven decision making.
+  <br><br>
+  I have hands-on experience in data cleaning, exploratory data analysis, and building dashboards, where I apply logical thinking to transform raw data into meaningful insights. I enjoy analyzing trends, supporting business understanding, and presenting results in a clear and structured way.
+  <br><br>
+  I am eager to gain practical experience in a professional environment, improve my analytical and reporting skills, and contribute to real-world data projects.
+  <br><br>
+  In the long term, I aim to develop deep expertise in data analytics and become a <b>Senior Data Analyst</b>, with the ability to build forecasting models using large-scale data and optimize business operations through data-driven strategies.
+  </p>
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-145578661-1 # Google Analytics tracking ID
+
 # Portfolio
 ---
 ## *"Coffee Shop Sales Analysis"* | Excel <br>
