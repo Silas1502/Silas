@@ -1,12 +1,10 @@
 # About me
 <p align="justify">
-  I am a final-year Computer Science student seeking a <b>Data Analyst Intern</b> position, with a solid foundation in <b>SQL and Python</b> and a strong interest in data-driven decision making.
+  I am a final-year Computer Science student seeking a Data Analyst Intern position, with strong skills in SQL, Python, and Excel.
   <br><br>
-  I have hands-on experience in data cleaning, exploratory data analysis, and building dashboards, where I apply logical thinking to transform raw data into meaningful insights. I enjoy analyzing trends, supporting business understanding, and presenting results in a clear and structured way.
+  I have hands-on experience in data cleaning, exploratory data analysis, and building dashboards to transform raw data into actionable insights. I am particularly interested in analyzing trends, supporting business decisions, and presenting results in a clear and structured way.
   <br><br>
-  I am eager to gain practical experience in a professional environment, improve my analytical and reporting skills, and contribute to real-world data projects.
-  <br><br>
-  In the long term, I aim to develop deep expertise in data analytics and become a <b>Senior Data Analyst</b>, with the ability to build forecasting models using large-scale data and optimize business operations through data-driven strategies.
+  In the long term, I aim to become a Senior Data Analyst, specializing in forecasting models and data-driven optimization of business performance.
   </p>
 
 # Portfolio
