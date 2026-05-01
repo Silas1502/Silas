@@ -8,9 +8,6 @@
   <br><br>
   In the long term, I aim to develop deep expertise in data analytics and become a <b>Senior Data Analyst</b>, with the ability to build forecasting models using large-scale data and optimize business operations through data-driven strategies.
   </p>
-  
-theme: jekyll-theme-minimal
-google_analytics: UA-145578661-1 # Google Analytics tracking ID
 
 # Portfolio
 ---
