@@ -108,12 +108,19 @@ Built a comprehensive <b>Business Intelligence Dashboard</b> for <b>Olist E-comm
 </ul>
 </div>
 <br>
+<h3>Overview:</h3>
 <center><img src="images/PBI_OverView.png"/></center>
 <br>
+
+<h3>Order Analyst</h3>
 <center><img src="images/PBI_Order.png"/></center>
 <br>
+
+<h3>Product Analyst:</h3>
 <center><img src="images/PBI_Product.png"/></center>
 <br>
+
+<h3>Customer Analyst:</h3>
 <center><img src="images/PBI_Customer.png"/></center>
 <br>
 
