@@ -49,7 +49,7 @@ Business performance analysis of a coffee shop using <b>9,521 transactions</b>, 
 </ul>
 </div>
 <br>
-<center><img src="images/coffee_dashboard.png"/></center>
+<center><img src="images/Dashboard_Excel.png"/></center>
 <br>
 
 ---
