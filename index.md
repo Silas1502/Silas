@@ -180,6 +180,15 @@ Developed a Machine Learning model to predict customer repurchase likelihood in 
 </ul>
 </div>
 <h3>Home page:</h3>
-<br>
 <center><img src="images/home_page.png"/></center>
+<br>
+
+<h3>Predict page:</h3>
+<center><img src="images/predict_page1.png"/></center>
+<br>
+<center><img src="images/predict_page2.png"/></center>
+<br>
+
+<h3>History page:</h3>
+<center><img src="images/history_page.png"/></center>
 <br>
