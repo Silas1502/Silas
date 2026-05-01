@@ -179,6 +179,7 @@ Developed a Machine Learning model to predict customer repurchase likelihood in 
 <li>Store prediction history in database</li>
 </ul>
 </div>
+<h3>Home page:</h3>
 <br>
-<center><img src="images/repurchase_app.png"/></center>
+<center><img src="images/home_page.png"/></center>
 <br>
