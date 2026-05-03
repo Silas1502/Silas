@@ -199,3 +199,5 @@ Developed a Machine Learning model to predict customer repurchase likelihood in 
 <h3>History page:</h3>
 <center><img src="images/history_page.png"/></center>
 <br>
+
+# ⭐ Thank for reading!
