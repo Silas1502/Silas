@@ -13,9 +13,8 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Silas1502/Coffee-Shop-Sales-Analysis)
 
-**_Key Skills:** Microsoft Excel, Power Query, Pivot Tables, Dashboard Design, Data Cleaning_
-
 <div style="text-align: justify">
+<b>_Key Skills:</b> <i>Microsoft Excel, Power Query, Pivot Tables, Dashboard Design, Data Cleaning_</i> <br><br>
 Business performance analysis of a coffee shop using <b>9,521 transactions</b>, leveraging Excel and Power Query for data cleaning, multi-dimensional Pivot Table analysis, and interactive Dashboard creation.
 <br><br>
 <b>Problem Statement:</b>
@@ -57,9 +56,8 @@ Business performance analysis of a coffee shop using <b>9,521 transactions</b>, 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Silas1502/Sale_Analyst)
 
-**_Key Skills:** SQL Server, Power BI, DAX, Data Modeling, Star Schema, Dashboard Design_
-
 <div style="text-align: justify">
+<b>_Key Skills:</b> <i>SQL Server, Power BI, DAX, Data Modeling, Star Schema, Dashboard Design_</i> <br><br>
 Built a comprehensive <b>Business Intelligence Dashboard</b> for <b>Olist E-commerce platform (Brazil)</b>, simulating the complete workflow of a Data Analyst / BI Developer from raw data processing to visualization and insight extraction.
 <br><br>
 <b>Problem Statement:</b>
@@ -130,9 +128,8 @@ Built a comprehensive <b>Business Intelligence Dashboard</b> for <b>Olist E-comm
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Silas1502/Predict_Repurchase)
 [![Live Demo](https://img.shields.io/badge/Vercel-Live_Demo-green?logo=vercel)](https://predict-repurchase-fe-vercel.vercel.app/)
 
-**_Key Skills:** Python, XGBoost, Feature Engineering, FastAPI, Next.js, PostgreSQL, MLOps_
-
 <div style="text-align: justify">
+<b>_Key Skills:</b> <i>Python, XGBoost, Feature Engineering, FastAPI, Next.js, PostgreSQL, MLOps_</i>
 Developed a Machine Learning model to predict customer repurchase likelihood in the following month, combined with fullstack web app deployment (FastAPI + Next.js + PostgreSQL) and a 3-segment customer strategy to optimize marketing budget allocation.
 <br><br>
 <b>Problem Statement:</b>
