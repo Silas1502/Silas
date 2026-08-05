@@ -9,7 +9,7 @@
 
 # Portfolio
 ---
-## *"Coffee Shop Sales Analysis"* | Excel <br>
+## *"Coffee Shop Sales Analysis"* | Excel & Power Query <br>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Silas1502/Coffee-Shop-Sales-Analysis)
 
@@ -52,7 +52,7 @@ Business performance analysis of a coffee shop using <b>9,521 transactions</b>, 
 <br>
 
 ---
-## *"Olist E-commerce Data Analysis"* | SQL Server & Power BI <br>
+## *"E-commerce Data Analysis"* | SQL Server & Power BI <br>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Silas1502/Sale_Analyst)
 
